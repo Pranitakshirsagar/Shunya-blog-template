@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <shunyInterfaces.h>
+
+#define pin 40
+
+int main() {
+
+	shunyaInterfacesSetup();
+	pinMode(pin, INPUT);
+
+	while(1) {
+	
+		if(digitalRead(40)) {
+			printf("Detected1");
+		}		
+
+	}
+
+}
