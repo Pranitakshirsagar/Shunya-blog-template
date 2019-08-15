@@ -1,45 +1,20 @@
 ### Template
-
 #### Instructions:
-
 - This is a readme file in markdown format (readme.md) which should be in your github/gitlab repository. later you can add your project files into the repository.
-
-- Fork this project and edit this file for your blog
-
 - Add your images in the `images` folder of this repository . 
   >  `![](images/imagename.jpg)`
-
-- You can [creatively ](https://pandao.github.io/editor.md/en.html)
- add more information so that the reader will get the most out of it.
-
-- remove all the instructions before posting the blog
-
-
-
 # Interfacing 'Sensor Name' with 'Board Name' using Shunyainterfaces
-
-
 ![](images/rpi4.jpg)
-
 >Add the image of the board or the your group working on shunya interfaces
-
 ## Introduction
 
  We are going to interface an ADXL335 (accelerometer) sensor on Raspberry Pi 4 with Shunya O/S
-
-> Add the description of your project and is applications
-
-
 # Materials required :
 - Raspberry Pi 4B
 - Raspberry Pi 4B compliant power supply
 - 8GB or bigger micro SD card
-
-
-
 # Connections :
 ![](images/connection.jpg)
-> Add a photo of your fully connected circuit.
 
 - connection between raspberrypi and pcf8591 
 
